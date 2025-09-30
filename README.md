@@ -76,7 +76,7 @@ This will start a local Streamlit server (usually on http://localhost:8501) and 
 3. Click "Get Latest Rate" to see
 
 ```bash
-The conversion rate on 2023-07-10 from AUD to BGN was 118.62. So, 100.0 in AUD corresponds to 11862.0 in BGN. The inverse rate is 0.0084.
+The conversion rate on 2025-09-29 from AUD to BGN was 1.0951. So, 1.0 in AUD corresponds to 1.0951 in BGN. The inverse rate is 0.9132.
 ```
 
 4. Use the date picker to select a past date and fetch historical rates.
